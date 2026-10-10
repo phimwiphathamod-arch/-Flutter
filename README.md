@@ -1,8 +1,8 @@
 ## 1
-![Home Screen](ScreenshotsHome.png)
+![Home Screen](ScreenshotHome.png)
 ## 2
 ![Menu List](screenshotsMenu.png)
 ## 3
-![Map Screen](ScreenshotsMap.png)
+![Map Screen](ScreenshotMap.png)
 ## 4
-![CRUD Screen](ScreenshotsCRUD.png)
+![CRUD Screen](ScreenshotCRUD.png)
